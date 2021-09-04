@@ -5,5 +5,5 @@ string = "I am software developer"
 words = string.split()
 ## reversing the words using reversed() function
 words = list(reversed(words))
-## joining the words and printing
+# ## joining the words and printing
 print(" ".join(words))
